@@ -1,4 +1,4 @@
-# hacksdump
+# opdump
 
 Minimal 16-byte hex dumper in C11.
 
@@ -17,7 +17,7 @@ Requires a C11 compiler and `make`.
 
 ```bash
 make
-./hacksdump <filename>
+./opdump <filename>
 ```
 
 ## Test

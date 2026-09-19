@@ -1,4 +1,5 @@
 *.o
+opdump
 hacksdump
 *.bin
 *.txt
