@@ -1,0 +1,5 @@
+*.o
+hacksdump
+*.bin
+*.txt
+
